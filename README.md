@@ -237,6 +237,8 @@
 
 - [PixelDrain Bot](https://t.me/aquaxpdbot)❌ - A Telegram media to PixelDrain upload bot, providing a seamless integration for file sharing. [GitHub](https://github.com/Burhanverse/Pixeldrain-Bot)
 
+- [@janisreleasebot](https://t.me/janisreleasebot) - A Telegram bot that notifies you of new GitHub releases. [GitHub](https://github.com/JanisV/release-bot)
+
 ### ➤ Ruby
 
 - [AndysTicTacToe](https://github.com/Zhivch1k/AndysTicTacToe) - Tic-tac-toe game as a Telegram Bot 
